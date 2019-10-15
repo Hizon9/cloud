@@ -1,0 +1,27 @@
+{
+  "name": "herokuTestApp",
+  "version": "0.0.0",
+  "description": "heroku test deploy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hizon9/cloud.git"
+  },
+  "keywords": [
+    "heroku",
+    "test",
+    "deploy"
+  ],
+  "author": "Hizkia Onorato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hizon9/cloud.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^3.4.8"
+  }
+}
